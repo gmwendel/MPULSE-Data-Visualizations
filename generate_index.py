@@ -2,7 +2,7 @@ import os
 import glob
 
 # --- Configuration ---
-PAGE_TITLE = "Particle Event Reconstructions"
+PAGE_TITLE = "MPULSE Interactive Event Displays:"
 # Add any other directory names you want to skip
 IGNORE_DIRS = ['.git', '.vscode', '__pycache__', 'css'] 
 # ---------------------
